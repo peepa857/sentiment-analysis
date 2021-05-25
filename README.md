@@ -1,2 +1,3 @@
 # sentiment-analysis
-wechat mini program for sentiment analysis
+
+![image](https://github.com/peepa857/sentiment-analysis/blob/master/image/qrcode.jpg)
