@@ -1,3 +1,3 @@
 # sentiment-analysis
 
-![image](https://github.com/peepa857/sentiment-analysis/blob/master/image/qrcode.jpg)
+![image](https://github.com/peepa857/sentiment-analysis/blob/master/image/sentiment.jpg)
